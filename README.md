@@ -69,7 +69,7 @@ I've authored an e-book called **"The Art of Midjourney AI: A Guide to Creating 
 
 There are many Pull Requests to this repository waiting to be merged. There are many hidden gems there. Take a look!
 
-📖 **[View Unmerged Prompts](https://github.com/f/awesome-chatgpt-prompts/pulls)**
+📖 **[View Unmerged Prompts](https://github.com/f/awesome-chatgpt-prompts/q
 
 ---
 
